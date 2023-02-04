@@ -6,8 +6,8 @@ html{
 
 body {
     margin: 0;
-    /* background-image: url('/images/91-915470_black-wallpaper-design.jpg'); */
-    background-color: gray;
+    background-image: url('/images/91-915470_black-wallpaper-design.jpg');
+    
 }
 
 h1{
@@ -47,7 +47,7 @@ h1{
 }
 
 
-@media screen and (max-width :600px) {
+/* @media screen and (max-width :600px) {
     .heading{
         font-size: 5px;
            
@@ -69,4 +69,4 @@ h1{
     }
    
     
-}
+} */
