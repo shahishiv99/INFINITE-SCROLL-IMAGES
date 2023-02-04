@@ -6,10 +6,11 @@ html{
 
 body {
     margin: 0;
-    background-image: url('/images/91-915470_black-wallpaper-design.jpg');
+    /* background-image: url('/images/91-915470_black-wallpaper-design.jpg'); */
+    background-color: gray;
 }
 
-.heading{
+h1{
     color: white;
     background-color: black;
     font-size: 30px;
