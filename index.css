@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&family=Itim&display=swap');
+
 html{
     box-sizing: border-box;
 }
@@ -15,7 +17,7 @@ body {
     text-align: center;
     margin: 15px 15%;
     padding: 2px;
-    font-family: 'Gloria Hallelujah', cursive;  
+    font-family: 'Itim', cursive;  
 }
 
 .loader{
